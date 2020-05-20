@@ -1,0 +1,86 @@
+* Slide Options                           :noexport:
+# ======= Appear in cover-slide ====================
+#+TITLE: ¿Por qué aprender a programar?
+#+SUBTITLE: code is for everyone
+#+AUTHOR: Albert Castellano Moreno
+
+# ======= Appear in thank-you-slide ================
+#+GITHUB: http://github.com/acastemoreno
+
+# ======= Appear under each slide ==================
+#+FAVICON: images/qode-logo.png
+#+ICON: images/qode-logo.png
+#+HASHTAG: #programming #learning #inel
+
+# ======= Google Analytics =========================
+#+ANALYTICS: ----
+
+# ======= Org settings =========================
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil num:nil ^:nil
+
+* Segue (Hide Title)
+  :PROPERTIES:
+  :TITLE: hide
+  :SLIDE: segue dark quote
+  :ASIDE: right bottom
+  :ARTICLE: flexbox vleft auto-fadein
+  :END:
+#+BEGIN_QUOTE
+Be prepared for a Informal Talk Style
+#+END_QUOTE
+
+* Quien eres amiguito?
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+* 
+  :PROPERTIES:
+  :SLIDE: me
+  :END:
+#+BEGIN_CENTER
+#+BEGIN_EXPORT html
+<div class="present">
+  <img class="photo" src="images/photo.jpg">
+  <div>
+#+END_EXPORT
+Formación:
+- *BSc* en Ingeniería Mecánica (UNI)
+- Actualmente tomando el bootcamp de [[https://codeable.pe/][Codeable]]
+Experiencia Laboral:
+- Full-Stack Developer
+- Ingeniero de control y automatización.
+#+BEGIN_EXPORT html
+  </div>
+<div>
+#+END_EXPORT
+#+END_CENTER
+
+* Empresas a las que he hecho algun servicio
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 1000px
+[[file:images/servicios.png]]
+#+END_CENTER
+
+* Voluntario
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/voluntario.png]]
+#+END_CENTER
+
+* Languages
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 900px
+[[file:images/languages.png]]
+#+END_CENTER
+
+
+* Gracias ʕ•ᴥ•ʔ
+:PROPERTIES:
+:SLIDE: thank-you-slide segue
+:ASIDE: right
+:ARTICLE: flexbox vleft auto-fadein
+:END:
