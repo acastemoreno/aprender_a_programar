@@ -10,3 +10,17 @@
     }
   }
 }
+
+slides > slide.cover-image{
+  background-size: cover;
+  background-position: center;
+}
+
+slides > slide.contain-image{
+  background-size: contain;
+  background-position: center;
+}
+
+.line-through{
+  text-decoration: line-through;
+}

@@ -1,1 +1,1 @@
-.me .present{display:grid;grid-template-columns:400px 1fr;gap:10px 30px;align-items:center}.me .present img{width:100%}
+.me .present{display:grid;grid-template-columns:400px 1fr;gap:10px 30px;align-items:center}.me .present img{width:100%}slides>slide.cover-image{background-size:cover;background-position:center}slides>slide.contain-image{background-size:contain;background-position:center}.line-through{text-decoration:line-through}

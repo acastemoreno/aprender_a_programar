@@ -17,7 +17,7 @@ var SLIDE_CONFIG = {
    // Author information
    presenters: [{
      name: 'Albert Castellano Moreno', 
-     company: '', 
+     company: 'QODE', 
      gplus: '', 
      twitter: '', 
      www: '', 
